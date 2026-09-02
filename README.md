@@ -1,3 +1,55 @@
+## ❤️ Support Development
+
+Help support the continued development of this project.
+
+Your contributions directly fund new features, infrastructure, maintenance, and long-term development.
+
+<p>
+  <img
+    src="https://vasyl.penteleichuk.com/api/donations/badge.svg"
+    alt="Development funding progress"
+    width="420"
+  />
+</p>
+
+### 🎯 Funding Goal
+
+The current goal is **$5,000 USDT**.
+
+Funding progress is calculated from on-chain transactions and updated automatically.
+
+### 💎 Donate with USDT
+
+| Network | Address |
+| --- | --- |
+| **TRON (TRC20)** | `TDpGR5vkd84F8cxdvdZyY3GPSXoSpreaHG` |
+| **Ethereum (ERC20)** | `0xa50604488D595655D050EcdEABA79ec4096177Cd` |
+| **Polygon** | `0xa50604488D595655D050EcdEABA79ec4096177Cd` |
+
+> ⚠️ Make sure you select the correct network when sending USDT.
+
+### 🚀 What Your Support Will Fund
+
+- 📱 Native ARM32 & ARM64 support for SA-MP 2.11
+- 🎨 Improved graphics and rendering quality
+- 🚀 A completely new client rebuilt from scratch for modern Android versions
+- 🛠️ Deep client customization and configuration
+- 📦 Modern file downloading, patching and update system
+- 🧹 Clean and stable game cache with improved resource management
+- 🚗 Full support for custom vehicles, skins, textures and other game assets
+- ⚙️ Better performance, stability and compatibility across devices
+- 📚 Documentation
+
+### 🔎 Transparent Funding
+
+Donations go directly to the public wallets listed above.
+
+The funding counter is generated automatically from verified blockchain transactions — no manual totals.
+
+Thank you for supporting the project. ❤️
+
+
+
 <p align="center"><img src="https://github.com/penteleichuk/Samp-Launcer/blob/main/assets/images/logo.png" width="150" alt="Samp launcer Logo"></p>
 
 ## About Samp Mobile Launcer
