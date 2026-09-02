@@ -4,7 +4,7 @@ Help support the continued development of this project.
 
 Your contributions directly fund new features, infrastructure, maintenance, and long-term development.
 
-<p>
+<p align="center">
   <img
     src="https://vasyl.penteleichuk.com/api/donations/badge.svg"
     alt="Development funding progress"
